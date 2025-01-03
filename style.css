@@ -3,8 +3,10 @@ body{
 }
 
 .bg{
-    width: 20em;
-    height: 50em;
+    width: 23em;
+    height: 40em;
     background-color: rgb(31, 31, 31);
     border-radius: 20px;
+    margin-left: 40em;
+    margin-top: 2em;
 }
