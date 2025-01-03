@@ -21,3 +21,12 @@ img{
 h3, p{
     color: white;
 }
+
+.github{
+    width: 18em;
+    height: 3em;
+    background-color: rgb(41, 41, 41);
+    margin-left: 2em;
+    border-radius: 9px;
+    color: white;
+}
