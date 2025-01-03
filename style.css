@@ -15,4 +15,9 @@ body{
 
 img{
     margin-top: 3em;
+    border-radius: 50%;
+}
+
+h3, p{
+    color: white;
 }
